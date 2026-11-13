@@ -6,17 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%E2%9C%A8;Turning+Ideas+Into+Reality.;Python+%7C+Backend+%7C+APIs;Creating+With+Logic+%26+Curiosity.;Dream.+Design.+Develop." />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CREATIVE%20MIND-8B5CF6?style=for-the-badge&labelColor=130A2B"/>
-<img src="https://img.shields.io/badge/CODE%20WITH%20PURPOSE-00CFE8?style=for-the-badge&labelColor=071B2B"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Manjari746&style=for-the-badge&color=7047C9&label=PROFILE+VISITS"/>
 
 </div>
-
+<br/>
 <div align="center">
 
 ✦ A LITTLE ABOUT ME ✦
@@ -39,7 +34,7 @@ Fascinated by the logic that powers technology.
 
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,git,github&theme=dark" />
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/NumPy-253D69?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-465C94?style=for-the-badge"/>
@@ -51,7 +46,7 @@ Fascinated by the logic that powers technology.
 <img src="https://img.shields.io/badge/SQL-087EA4?style=for-the-badge"/>
 
 </div>
-
+<br/>
 <div align="center">
 
 ✨ THE JOURNEY CONTINUES
@@ -68,7 +63,7 @@ Fascinated by the logic that powers technology.
 
 <font color="#BDA6FF">
 
-Creating my own path, one line of code at a time.
+“Elegance is not about adding more. It's about making every detail matter.”
 
 </font>
 
