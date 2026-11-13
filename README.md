@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-
-✦ A LITTLE ABOUT ME
+<br/>
+<b>✦ A LITTLE ABOUT ME</b>
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=3000&pause=1200&color=C4A7FF&center=true&vCenter=true&width=600&lines=Curiosity+is+my+creative+fuel.;Finding+beauty+in+logical+solutions.;Learning.+Experimenting.+Evolving." />
 
@@ -21,13 +21,12 @@ Fascinated by the logic that powers technology.
 </div>
 
 <div align="center">
-
-✧ THE TOOLS I CREATE WITH
+<br/>
+<b>✧ THE TOOLS I CREATE WITH</b>
 
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,git,github&theme=dark"/>
 
 <br/>
-
 <img src="https://img.shields.io/badge/NumPy-253D69?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-465C94?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -38,8 +37,8 @@ Fascinated by the logic that powers technology.
 
 <div align="center">
 <br/>
-✦ LET'S CROSS PATHS
-
+<b>✦ LET'S CROSS PATHS</b>
+<br/>
 <a href="https://github.com/Manjari746">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
