@@ -23,7 +23,7 @@ Fascinated by the logic that powers technology.
 <div align="center">
 <br/>
 <b>✧ THE TOOLS I CREATE WITH</b>
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,git,github&theme=dark"/>
 
 <br/>
