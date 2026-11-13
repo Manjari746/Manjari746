@@ -1,74 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B2F,100:00FF99&height=180&section=header&text=MANJARI%20JAIN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20DEVELOPER&descSize=15&descColor=00FF99&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Building+Beyond+The+Frontend.;Python+%7C+Backend+%7C+APIs;Logic+Into+Solutions.;Code.+Create.+Evolve." />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07110E,50:102A20,100:07110E&height=190&section=header&text=Manjari%20Jain&fontSize=52&fontColor=E2F5E9&fontAlignY=42&desc=✦%20BACKEND%20DEVELOPER%20✦&descSize=15&descColor=9BC9AD&animation=fadeIn" width="100%"/>
 
 <br/>
 
-THINK DEEPER.   BUILD SMARTER.   STAY CURIOUS.
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3500&pause=1200&color=A3D9B7&center=true&vCenter=true&width=550&lines=Thoughtful+code.+Meaningful+solutions.;Turning+ideas+into+functionality.;Creating+one+line+at+a+time." />
+
+<br/>
+
+Building quietly, dreaming boldly.
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Manjari746&style=flat-square&color=315D48&label=visitors" />
 
 </div>
 
-01 / ABOUT
-bash
-> identity:  Manjari Jain
-> domain:    Backend Development
-> language:  Python
-> focus:     APIs & Databases
-> mindset:   Continuous Evolution
+<div align="center">
 
-02 / TECH ARSENAL
+✧   A little about me   ✧
+
+</div>
+
+<p align="center">
+A developer fascinated by the logic behind technology.<br/>
+Exploring backend systems, Python and the art of building things that work.
+</p>
 
 <div align="center">
+
+Curious mind   ·   Logical thinking   ·   Continuous growth
+
+<br/><br/>
+
+✧   Things I work with   ✧
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,git,github&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-00A98F?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
-
-</div>
-
-03 / GITHUB STATISTICS
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manjari746&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9&rank_icon=github"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjari746&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=C9D1D9"/>
+<img src="https://img.shields.io/badge/NumPy-233C43?style=flat-square&logo=numpy&logoColor=B8DDE5"/>
+<img src="https://img.shields.io/badge/Seaborn-344B65?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-805B32?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-315D48?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-344B65?style=flat-square"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Manjari746&theme=dark&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99"/>
+✧   A little more every day   ✧
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=3000&pause=1500&color=9BC9AD&center=true&vCenter=true&width=450&lines=Learn.+Experiment.+Create.;Better+code%2C+better+thinking.;Growing+with+every+challenge." />
 
-04 / CONTRIBUTION GRAPH
+<br/><br/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manjari746&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-05 / CONNECT
-
-<div align="center">
+✧   Find me here   ✧
 
 <a href="https://github.com/Manjari746">
-<img src="https://img.shields.io/badge/GITHUB-00FF99?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/GitHub-17251E?style=for-the-badge&logo=github&logoColor=B8DCC5"/>
 </a>
 
 <br/><br/>
 
-Open to learning, building and new opportunities.
+“Elegance is not about adding more. It's about making every detail matter.”
 
-Building quietly. Creating impact.
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,50:003B2F,100:000000&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07110E,50:183D2D,100:07110E&height=120&section=footer" width="100%"/>
 
 </div>
