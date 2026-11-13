@@ -49,12 +49,9 @@ Fascinated by the logic that powers technology.
 <br/>
 <div align="center">
 
-✨ THE JOURNEY CONTINUES
+✨ FIND ME HERE
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=550&lines=Think+Different.;Build+Beautifully.;Keep+Growing.;Make+Every+Line+Count." />
-
-<br/><br/>
-
+<br/>
 <a href="https://github.com/Manjari746">
 <img src="https://img.shields.io/badge/LET'S%20CONNECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
